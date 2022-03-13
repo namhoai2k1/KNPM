@@ -17,4 +17,3 @@
     <li>Đồ uống của bạn gồm những loại nào. Cấc nhà cung cấp ra sao.</li>
 </ul>
 <h4>Câu 2: Viết mô hình nghiệp vụ bài toán.</h4>
-![Screenshot (343)](https://user-images.githubusercontent.com/68991638/158066598-a80ac6e7-9ccc-494b-8e50-b3c5e91d8879.png)
